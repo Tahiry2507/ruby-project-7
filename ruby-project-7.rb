@@ -112,6 +112,9 @@ class Truck < Vehicle
 end
 
 
+# time = 2 days
+
+
 
 
 
